@@ -1,0 +1,84 @@
+{
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1656507074802,
+    "changeTime": 1656507102755,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1656507074802,
+    "changeTime": 1656507102757,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default",
+    "isDirectory": true,
+    "size": 160,
+    "modifiedTime": 1656507362238,
+    "changeTime": 1656507362238,
+    "contentHash": "87a8603786989f4225be5cf129624c66f0f18e77",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/aura": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/aura",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1656507074802,
+    "changeTime": 1656507102762,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/installedPackages": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/installedPackages",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1656507380554,
+    "changeTime": 1656507382620,
+    "contentHash": "19f4c593a806bbe9f5b0c725fecfe0e05d0dd30e",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/installedPackages/CPM.installedPackage-meta.xml": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/installedPackages/CPM.installedPackage-meta.xml",
+    "size": 259,
+    "modifiedTime": 1656507453033,
+    "changeTime": 1656507461229,
+    "contentHash": "27b3ddf9c107e0fa9c4de6499486fec0016da0f7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "InstalledPackage"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/lwc": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1656507078714,
+    "changeTime": 1656507102762,
+    "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates": {
+    "sourcePath": "/Users/petervandermeij/Documents/DEV/Thank-You-Flow-Templates/Thank-you-flow-templates",
+    "isDirectory": true,
+    "size": 288,
+    "modifiedTime": 1656508786699,
+    "changeTime": 1656508786699,
+    "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+    "state": "u",
+    "isWorkspace": true
+  }
+}
